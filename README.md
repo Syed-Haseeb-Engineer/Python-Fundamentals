@@ -24,7 +24,7 @@ This repository currently contains the core notebooks from my introductory modul
 ## 🚀 How to Explore This Workspace
 1. Clone this specific repository down to your machine:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Syed-Haseeb-Engineer/Python-Fundamentals.git
    ```
 2. Launch your notebook environment:
    ```bash
@@ -36,5 +36,5 @@ This repository currently contains the core notebooks from my introductory modul
 
 ## 📈 Next Milestones
 - [x] Complete Session 1 core structures & tasks
-- [ ] Implement advanced sequence transformations (Loops, Comprehensions)
-- [ ] Scale up to object-oriented programming foundations (OOP)
+- [ ] Implement Operators and control Statements(if,elif, loop etc)
+
